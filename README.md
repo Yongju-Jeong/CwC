@@ -17,7 +17,7 @@
   │    README.md
   │
   └──── Codility
-  │    │    Lesson
+  │    │    Lessons
   │    └    Exercises
   │
   └──── Programmers
@@ -36,7 +36,7 @@
   ```
   - 띄어쓰기는 underscore로 대체해주세요.
   - 파일 경로의 경우 `플랫폼/해당 문제로 접근하기 위한 탭 경로/Github ID` 형식으로 업로드해주세요.
-    - ex 1) [Codility 예시](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) -> `/Codility/Lesson/Iterations/BinadyGap/NeuronA.py`
+    - ex 1) [Codility 예시](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) -> `/Codility/Lesson/Iterations/BinaryGap/NeuronA.py`
     - ex 2) [프로그래머스 예시](https://school.programmers.co.kr/learn/courses/30/lessons/1845) -> `/Programmers/코딩테스트_고득점_kit/해시/폰켓몬/NeuronA.py`
     - ex 3) [백준 예시](https://www.acmicpc.net/problem/1000) -> `/Backjoon/수학/1000/NeuronA.py`
   
@@ -61,4 +61,5 @@
 - Labels: Problem 과 Language를 본인의 현황에 맞게 입력 
 
 #### Merge 기준
- - PR에 등록된 모든 Reviewer중 과반수 이상이 Review를 남겼을 떄
+ - 다음 문제를 풀기 전(본인 판단)
+ - 권장사항) 1개 이상의 Review를 받은 이후
