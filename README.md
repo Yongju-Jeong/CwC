@@ -1,4 +1,4 @@
-# 프로그래밍 스터디
+# CwC(Coding with Colleagues)
 
 프로그래밍 실력 향상 및 알고리즘 공부를 위한 스터디 Repo
 
@@ -39,7 +39,16 @@
     - ex 1) [Codility 예시](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) -> `/Codility/Lesson/Iterations/BinaryGap/NeuronA.py`
     - ex 2) [프로그래머스 예시](https://school.programmers.co.kr/learn/courses/30/lessons/1845) -> `/Programmers/코딩테스트_고득점_kit/해시/폰켓몬/NeuronA.py`
     - ex 3) [백준 예시](https://www.acmicpc.net/problem/1000) -> `/Backjoon/수학/1000/NeuronA.py`
-  
+
+## 주차별 권장 문제
+본 Repo에서는 본인의 선택하에 다양한 문제들을 해결해보는 것을 권장하며
+제시하는 권장 문제는 PR에 소요되는 시간을 단축하고자
+공통적인 문제를 제시하여 효율적인 리뷰가 이루어지게 함에 목표를 둡니다.
+
+|주차(시작일)|문제 1|문제 2|문제 3|
+|---|---|---|---|
+|1주차(22.10.03)|[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|
+
 ## PR 양식
 
 ### PR 제목
