@@ -32,9 +32,10 @@
 제시하는 권장 문제는 PR에 소요되는 시간을 단축하고자
 공통 문제를 제시하여 효율적인 리뷰가 이루어지게 하기 위함입니다.
 
-|주차(시작일)|문제 1|문제 2|문제 3|
-|:-:|:-:|:-:|:-:|
-|1주차(22.10.03)|[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|
+|주차(시작일)|문제 1|문제 2|문제 3|문제 4|문제 5|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|1주차(22.10.03)|[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|X|X|
+|2주차(22.10.10)|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|
 
 ## PR 양식
 
