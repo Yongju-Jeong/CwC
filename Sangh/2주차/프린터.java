@@ -1,12 +1,25 @@
+import java.util.Random;
+
 class Main {
   public static void main(String[] args) {
-    int[][] arr_priorities = { { 1, 1, 9, 1, 1, 1 }, { 2, 1, 3, 2 } };
-    int[] arr_location = { 0, 2 };
+    Random random = new Random();
+    int[][] arr_priorities = { { 1, 1, 9, 1, 1, 1 }, { 2, 1, 3, 2 }, {}};
+    int[] arr_location = { 0, 2 ,random.nextInt(1000000)};
+    int[] arr = new int[1000000];
+    for(int i = 0 ; i < 1000000; i++){
+        arr[i] = random.nextInt(9)+1;
+    }
+    arr_priorities[2] = arr;
     int answer;
+    long start;
+    long end; 
     Main main = new Main();
     for (int i = 0; i < arr_priorities.length; i++) {
-      answer = main.solution(arr_priorities[i], arr_location[i]);
-      System.out.println(answer);
+        start = System.currentTimeMillis();
+        answer = main.solution(arr_priorities[i], arr_location[i]);
+        end = System.currentTimeMillis(); 
+        System.out.println("answer: "+answer);
+        System.out.println("수행시간: " + (end - start) + " ms");
     }
   }
 
