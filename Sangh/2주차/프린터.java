@@ -1,6 +1,8 @@
 import java.util.Random;
+import java.util.Queue;
+import java.util.LinkedList;
 
-class Main {
+class Prob1 {
   public static void main(String[] args) {
     Random random = new Random();
     int[][] arr_priorities = { { 1, 1, 9, 1, 1, 1 }, { 2, 1, 3, 2 }, {}};
@@ -13,14 +15,17 @@ class Main {
     int answer;
     long start;
     long end; 
-    Main main = new Main();
-    for (int i = 0; i < arr_priorities.length; i++) {
-        start = System.currentTimeMillis();
-        answer = main.solution(arr_priorities[i], arr_location[i]);
-        end = System.currentTimeMillis(); 
-        System.out.println("answer: "+answer);
-        System.out.println("수행시간: " + (end - start) + " ms");
+    Prob1 prob1 = new Prob1();
+    System.out.println("printer");
+    for (int i = 0; i < arr_priorities.length; i++) 
+    {
+      start = System.currentTimeMillis();
+      answer = prob1.solution2(arr_priorities[i], arr_location[i]);
+      end = System.currentTimeMillis(); 
+      System.out.println("answer: "+answer);
+      System.out.println("수행시간: " + (end - start) + " ms");
     }
+    
   }
 
   public int solution(int[] priorities, int location) {
@@ -52,6 +57,47 @@ class Main {
       }
       if (isBreakPoint) {
         break;
+      }
+    }
+    return answer;
+  }
+
+  public int solution2(int[] priorities, int location) {
+    int answer = 0;
+    
+    int[] arr_countPriorities = new int[10];
+    Queue<Integer> queue = new LinkedList<>();
+
+    //array 생성 - priorities element 세기
+    for(int i = 0 ; i < priorities.length ; i++)
+    {
+      queue.add(priorities[i]);
+      arr_countPriorities[priorities[i]]++;
+    }
+
+    int n_idx = 0;
+    int n_pollElement;
+
+    for(int i = 9 ; i > 0 ; i--)
+    {
+      while(arr_countPriorities[i]>0)
+      {
+        n_pollElement = queue.poll();
+        if(n_pollElement == i)
+        {
+          queue.add(0);
+          arr_countPriorities[i]--;
+          answer++;
+          if(n_idx == location)
+          {
+            i = -1;
+            break;
+          }
+        }else{
+          queue.add(n_pollElement);
+        }
+        n_idx = ++n_idx < priorities.length ? n_idx : 0;
+
       }
     }
     return answer;
