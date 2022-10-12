@@ -15,3 +15,4 @@ def solution(prices: list) -> list:
             answer.append(len(prices_deq))
     
     return answer
+    
