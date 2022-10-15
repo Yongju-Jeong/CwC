@@ -21,7 +21,7 @@ Sangh의 문제 풀이 내역입니다.
 | 프린터 | https://school.programmers.co.kr/learn/courses/30/lessons/42587 |    O     |
 | 다리를 지나는 트럭 | https://school.programmers.co.kr/learn/courses/30/lessons/42583 |     O    |
 | 주식가격 | https://school.programmers.co.kr/learn/courses/30/lessons/42584 |     O    |
-| 두 큐 합 같게 만들기 | https://school.programmers.co.kr/learn/courses/30/lessons/118667 |          |
+| 두 큐 합 같게 만들기 | https://school.programmers.co.kr/learn/courses/30/lessons/118667 |    O     |
 | 괄호 변환 | https://school.programmers.co.kr/learn/courses/30/lessons/60058 |          |
 
 * **개인 해결 문제**
