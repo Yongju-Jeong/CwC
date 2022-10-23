@@ -37,6 +37,7 @@
 |1주차(22.10.03)|[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|X|X|
 |2주차(22.10.10)|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|
 |3주차(22.10.17)|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|X|X|
+|4주차(22.10.24)|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|X|
 ## PR 양식
 
 ### PR 제목
