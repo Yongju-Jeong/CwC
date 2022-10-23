@@ -24,6 +24,14 @@ Sangh의 문제 풀이 내역입니다.
 | 두 큐 합 같게 만들기 | https://school.programmers.co.kr/learn/courses/30/lessons/118667 |    O     |
 | 괄호 변환 | https://school.programmers.co.kr/learn/courses/30/lessons/60058 |          |
 
+* **3주차**
+
+|   제목    |               URL                | 풀이(O,X) |
+| :-------: | :------------------------------: | :-------: |
+| 더 맵게 | https://school.programmers.co.kr/learn/courses/30/lessons/42626 | O |
+| 디스크 컨트롤러 | https://school.programmers.co.kr/learn/courses/30/lessons/42627 |   |
+| 이중우선순위큐 | https://school.programmers.co.kr/learn/courses/30/lessons/42628 |   |
+
 * **개인 해결 문제**
 
 |   제목    |               URL                | 풀이(O,X) |
