@@ -32,6 +32,15 @@ NeuronA의 문제 풀이 내역입니다.
 | 디스크 컨트롤러 | https://school.programmers.co.kr/learn/courses/30/lessons/42627 | O |
 | 이중우선순위큐 | https://school.programmers.co.kr/learn/courses/30/lessons/42628 |   |
 
+* **3주차**
+
+|   제목    |               URL                | 풀이(O,X) |
+| :-------: | :------------------------------: | :-------: |
+| 소수 찾기 | https://school.programmers.co.kr/learn/courses/30/lessons/42839 | O |
+| 피로도 | https://school.programmers.co.kr/learn/courses/30/lessons/87946 |   |
+| 전력망을 둘로 나누기 | https://school.programmers.co.kr/learn/courses/30/lessons/86971 |   |
+| 모음사전 | https://school.programmers.co.kr/learn/courses/30/lessons/84512 |   |
+
 * **개인 해결 문제**
 
 |   제목    |               URL                | 풀이(O,X) |
