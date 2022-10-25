@@ -32,7 +32,7 @@ NeuronA의 문제 풀이 내역입니다.
 | 디스크 컨트롤러 | https://school.programmers.co.kr/learn/courses/30/lessons/42627 | O |
 | 이중우선순위큐 | https://school.programmers.co.kr/learn/courses/30/lessons/42628 |   |
 
-* **3주차**
+* **4주차**
 
 |   제목    |               URL                | 풀이(O,X) |
 | :-------: | :------------------------------: | :-------: |
