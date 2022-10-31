@@ -38,6 +38,8 @@
 |2주차(22.10.10)|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|
 |3주차(22.10.17)|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|X|X|
 |4주차(22.10.24)|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|X|
+|5주차(22.10.31)|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|
+
 ## PR 양식
 
 ### PR 제목
