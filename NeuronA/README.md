@@ -41,6 +41,17 @@ NeuronA의 문제 풀이 내역입니다.
 | 전력망을 둘로 나누기 | https://school.programmers.co.kr/learn/courses/30/lessons/86971 |   |
 | 모음사전 | https://school.programmers.co.kr/learn/courses/30/lessons/84512 |   |
 
+
+* **5주차**
+
+|   제목    |               URL                | 풀이(O,X) |
+| :-------: | :------------------------------: | :-------: |
+| 체육복 | https://school.programmers.co.kr/learn/courses/30/lessons/42862 | O |
+| 조이스틱 | https://school.programmers.co.kr/learn/courses/30/lessons/42860 |   |
+| 큰 수 만들기 | https://school.programmers.co.kr/learn/courses/30/lessons/42883 |   |
+| 구명보트 | https://school.programmers.co.kr/learn/courses/30/lessons/42885 |   |
+| 섬 연결하기 | https://school.programmers.co.kr/learn/courses/30/lessons/42861 |   |
+
 * **개인 해결 문제**
 
 |   제목    |               URL                | 풀이(O,X) |
