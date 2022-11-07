@@ -39,6 +39,7 @@
 |3주차(22.10.17)|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|X|X|
 |4주차(22.10.24)|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|X|
 |5주차(22.10.31)|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|
+|6주차(22.11.07) <td colspan=5>1~5주차 풀지 못한 문제 풀이 + 자율 문제 풀이|
 
 ## PR 양식
 
